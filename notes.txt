@@ -1,0 +1,11 @@
+ng new = Cria um app
+ng serve -o = Executa a aplição e abre o browser.
+componente - é composto por Comportamento, visao e estilo
+
+(bind) = HTML => TS
+[] =  = TS => HTML
+[()] =  TS <=> HTML
+
+Criação de Icone - www.xiconeditor.com
+
+Build - ng build --prod
